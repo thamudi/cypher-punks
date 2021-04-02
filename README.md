@@ -6,4 +6,4 @@ Table of resources
 
 Meeting |
 ------------ |
-[Meeting 1 resource](content/meeting-1.md) |
+[Meeting 1 resources](content/meeting-1.md) |
