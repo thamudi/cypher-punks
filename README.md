@@ -1,8 +1,9 @@
 # JOSA Cypherpunks
 
 Table of resources
-- Table of reouseces containtg the meetings topics and content
-- The naming in the table might change as more feedback on this content will be taken into condieration.
+
+- Table of resources containing the meetings topics and content
+- The naming in the table might change as more feedback on this content will be taken into consideration.
 
 Meeting |
 ------------ |
