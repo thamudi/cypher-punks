@@ -26,4 +26,4 @@
 
 - An interesting magazine that has a range of technical articles including and not limited to hacking. Here's the [wiki page](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly) to it. You can get a Digital copy of the book from their [website](https://www.2600.com/).
 
-> This webpage will get update later on
+> This webpage will get updated later on
